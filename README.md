@@ -1,5 +1,7 @@
 :adult: Hi, I’m @adityamr91
 
+![Visitor Count](https://profile-counter.glitch.me/{adityamr91}/count.svg)
+
 :briefcase: Occupation : Software Engineer | Full Stack Developer | Tech Lead
 
 :computer: Tech Skills : Java, Java7/8/11, Angular4/5/6/7/8/9/10/11, SpringBoot, Kafka, MsSQL, OracleDB, Rest API, TypeScript, Hibernate, MyBatis
