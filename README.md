@@ -24,4 +24,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 🌱 <b>Java 8 Features with programs</b><br />
-:black_small_square: [adityamr91/java8-stream-api](https://github.com/adityamr91/java8-stream-api) - Java 8 Stream API with examples and exercise
+:black_small_square: [adityamr91/java8-stream-api](https://github.com/adityamr91/java8-stream-api) - Java 8 Stream API with examples and exercise<br />
+:black_small_square: [adityamr91/java8-functional-interface](https://github.com/adityamr91/java8-functional-interface) - Java 8 functional interface<br />
+
