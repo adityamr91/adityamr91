@@ -23,6 +23,10 @@ adityamr91/adityamr91 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+
+🌱 <b>Java Versions Newly Added Features </b><br />
+:black_small_square: [adityamr91/java8-features-list](https://github.com/adityamr91/java-versions-features-list) - Java Major Version Newly Added Features list<br />
+
 🌱 <b>Java 8 Features with programs</b><br />
 :black_small_square: [adityamr91/java8-features-list](https://github.com/adityamr91/java8-features-list) - Java 8 features list<br />
 :black_small_square: [adityamr91/java8-stream-api](https://github.com/adityamr91/java8-stream-api) - Java 8 Stream API with examples and exercise<br />
