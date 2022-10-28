@@ -4,7 +4,7 @@
 
 :briefcase: Occupation : Software Engineer | Full Stack Developer | Tech Lead
 
-:computer: Tech Skills : Java, Java7/8/11, Angular4/5/6/7/8/9/10/11, SpringBoot, Kafka, MsSQL, OracleDB, Rest API, TypeScript, Hibernate, MyBatis
+:computer: Tech Skills : Java, Java7/8/11/15, Angular4/5/6/7/8/9/10/11, SpringBoot, Kafka, MsSQL, OracleDB, Rest API, TypeScript, Hibernate, MyBatis
 
 <!---
 :office: Current Company : 
