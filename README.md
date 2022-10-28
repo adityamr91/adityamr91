@@ -33,7 +33,10 @@ You can click the Preview link to take a look at your changes.
 :black_small_square: [adityamr91/java8-functional-interface](https://github.com/adityamr91/java8-functional-interface) - Java 8 functional interface<br />
 
 🌱 <b>Java 9/10/11/15 Features brief</b><br />
+:black_small_square: [adityamr91/java9-features-brief](https://github.com/adityamr91/java9-features-brief) - Java 9 features brief<br />
+:black_small_square: [adityamr91/java10-features-brief](https://github.com/adityamr91/java10-features-brief) - Java 10 features brief<br />
 :black_small_square: [adityamr91/java11-features-brief](https://github.com/adityamr91/java11-features-brief) - Java 11 features brief<br />
+:black_small_square: [adityamr91/java15-features-brief](https://github.com/adityamr91/java15-features-brief) - Java 15 features brief<br />
 
 🌱 <b>Documentation-Interview-Preparation</b><br />
 :black_small_square: [adityamr91/interview-prep-docs](https://github.com/adityamr91/documentation-interview-preparation) - Interview Preparation docs<br />
