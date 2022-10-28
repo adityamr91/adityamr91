@@ -32,3 +32,5 @@ You can click the Preview link to take a look at your changes.
 :black_small_square: [adityamr91/java8-stream-api](https://github.com/adityamr91/java8-stream-api) - Java 8 Stream API with examples and exercise<br />
 :black_small_square: [adityamr91/java8-functional-interface](https://github.com/adityamr91/java8-functional-interface) - Java 8 functional interface<br />
 
+🌱 <b>Java 9/10/11/15 Features brief</b><br />
+:black_small_square: [adityamr91/java11-features-brief](https://github.com/adityamr91/java11-features-brief) - Java 11 features brief<br />
