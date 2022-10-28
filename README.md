@@ -36,3 +36,5 @@ You can click the Preview link to take a look at your changes.
 :black_small_square: [adityamr91/java11-features-brief](https://github.com/adityamr91/java11-features-brief) - Java 11 features brief<br />
 
 🌱 <b>Documentation-Interview-Preparation</b><br />
+:black_small_square: [adityamr91/git-basic-commands](https://github.com/adityamr91/documentation-interview-preparation)) - basic git commands<br />
+:black_small_square: [adityamr91/git-basic-commands](https://github.com/adityamr91/version-control) - basic git commands<br />
